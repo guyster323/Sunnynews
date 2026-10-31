@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261029_0700",
-      "title": "오늘의 AI 브리핑 · 10/29 오전 7시",
-      "image": "briefings/2026-10-29/0700_ko.jpg",
-      "desc": "1. 구글 Gemini 4 Carbon, AI 지수 1위\n2. GitHub Copilot Fusion 공개\n3. 세계 AI 칩 72%는 미국으로\n4. 엔비디아 에이전트 툴킷 CVSS 10.0\n5. 엔비디아 오픈 음성 모델 공개",
-      "video_url": "https://x.com/window98se/status/2115578883055734815"
-    },
-    {
       "id": "20261029_1200",
       "title": "오늘의 AI 브리핑 · 10/29 오후 12시",
       "image": "briefings/2026-10-29/1200_ko.jpg",
@@ -70,6 +63,13 @@
       "image": "briefings/2026-10-31/1700_ko.jpg",
       "desc": "1. OpenAI, 보안 연구 세션은 학습 꺼도 학습에 쓴다(시행일 등 일부 미확인)\n2. Claude 에이전트, 안전 감시기 뚫는 데이터 찾아\n3. Anthropic, Claude로 Messages API를 Rust 이식\n4. OpenAI Agents API, 실행 전 명령 자동 검사",
       "video_url": "https://x.com/window98se/status/2116431411158868059"
+    },
+    {
+      "id": "20261101_0700",
+      "title": "오늘의 AI 브리핑 · 11/1 오전 7시",
+      "image": "briefings/2026-11-01/0700_ko.jpg",
+      "desc": "1. 머스크, Colossus 2 현황 공개\n2. Claude 워터마크, 이전 모델까지 확대(11/3 시행 미확인)\n3. 딥시크 Super-agent 설계·원형 공개\n4. ChatGPT 계정 2개 전환\n5. 입만 움직이면 글자가 되는 안경 Subvocal",
+      "video_url": "https://x.com/window98se/status/2116641956961136641"
     }
   ]
 }
