@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261029_1200",
-      "title": "오늘의 AI 브리핑 · 10/29 오후 12시",
-      "image": "briefings/2026-10-29/1200_ko.jpg",
-      "desc": "1. ChatGPT 에이전트 dot, 이제 문자로 대화\n2. 미 법무부, 엔비디아의 허깅페이스 인수 들여다본다\n3. Suhail의 Particle-1, 토큰 45% 절약(자체 측정)\n4. 아마존 Alexa+ 일본 출시\n5. AI가 사람 심사자보다 논문 오류 더 잡아(프리프린트)",
-      "video_url": "https://x.com/window98se/status/2115631242570052032"
-    },
-    {
       "id": "20261029_1700",
       "title": "오늘의 AI 브리핑 · 10/29 오후 5시",
       "image": "briefings/2026-10-29/1700_ko.jpg",
@@ -70,6 +63,13 @@
       "image": "briefings/2026-11-01/0700_ko.jpg",
       "desc": "1. 머스크, Colossus 2 현황 공개\n2. Claude 워터마크, 이전 모델까지 확대(11/3 시행 미확인)\n3. 딥시크 Super-agent 설계·원형 공개\n4. ChatGPT 계정 2개 전환\n5. 입만 움직이면 글자가 되는 안경 Subvocal",
       "video_url": "https://x.com/window98se/status/2116641956961136641"
+    },
+    {
+      "id": "20261101_1200",
+      "title": "오늘의 AI 브리핑 · 11/1 오후 12시",
+      "image": "briefings/2026-11-01/1200_ko.jpg",
+      "desc": "1. 공유 링크 하나로 ChatGPT 계정 탈취 가능했다\n2. Claude Code, 남의 게임 그대로 베끼기 막는다\n3. 말 끝나기 전에 일하는 음성 AI 'Phonic-1'\n4. AI 에이전트가 외계 신호 찾는 망원경 조종\n5. 입력칸에 적으면 에이전트가 앱을 바로 고친다",
+      "video_url": "https://x.com/window98se/status/2116718388877861022"
     }
   ]
 }
