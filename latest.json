@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261030_1200",
-      "title": "오늘의 AI 브리핑 · 10/30 오후 12시",
-      "image": "briefings/2026-10-30/1200_ko.jpg",
-      "desc": "1. AI 코딩툴 내장 브라우저 취약점 'EMBRACE'\n2. 엔비디아, Nscale 데이터센터 부채 보증 협상(미확인)\n3. 딥마인드 'AI 경제학' 첫 연구\n4. Sabi, 뇌파로 AI 학습 RLNF(검증 미확인)",
-      "video_url": "https://x.com/window98se/status/2115994238529966397"
-    },
-    {
       "id": "20261030_special_hacks",
       "title": "🚨 특집 속보 · 바이낸스·폴리마켓 해킹",
       "image": "briefings/2026-10-30/special_hacks_ko.jpg",
@@ -70,6 +63,13 @@
       "image": "briefings/2026-11-02/0700_ko.jpg",
       "desc": "1. Anthropic 홈페이지에 'Claude Mythos 5.5' 이름 노출\n2. 노스플랭크 해킹, 고객 AI API 키 악용\n3. AI 에이전트, 메일 속 인증코드로 스스로 지출 한도 올렸다\n4. MS AI 수장 술레이만 \"의식 있는 AI 만들지 말라\"\n5. 메타, 中 푸리에와 휴머노이드 'Max' 개발",
       "video_url": "https://x.com/window98se/status/2117004979303338259"
+    },
+    {
+      "id": "20261102_1200",
+      "title": "오늘의 AI 브리핑 · 11/2 오후 12시",
+      "image": "briefings/2026-11-02/1200_ko.jpg",
+      "desc": "1. 텐센트, 대본→영상 편집 9B 에이전트 WeVisCut 오픈소스 공개(Opus 5급 성능은 팀 자체 평가)\n2. 미시간 교도소, 수감자 폭력 위험 예측 도구 12/1부터 시범(30% 개선 근거 미공개)",
+      "video_url": "https://x.com/window98se/status/2117081759133405342"
     }
   ]
 }
