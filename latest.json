@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261031_1200",
-      "title": "오늘의 AI 브리핑 · 10/31 오후 12시",
-      "image": "briefings/2026-10-31/1200_ko.jpg",
-      "desc": "1. 구글, 궤도 위 TPU에서 첫 AI 응답\n2. robots.txt 한 줄로 AI 학습 거부\n3. humans&, AI 과외 모델 &Tutor 공개\n4. OpenAI 영상, 새 모델 예고 추측(미확인)",
-      "video_url": "https://x.com/window98se/status/2116356610071380207"
-    },
-    {
       "id": "20261031_1700",
       "title": "오늘의 AI 브리핑 · 10/31 오후 5시",
       "image": "briefings/2026-10-31/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-03/1200_ko.jpg",
       "desc": "1. OpenAI, 자체 Git 백엔드 Pando 공개\n2. WorkOS 침해, AI 도구 ARTEX 쓰였을 가능성(회사 추정)\n3. 과학 연구용 오픈 웨이트 Hydrogen-1.0\n4. Mistral Large 4 기술 보고서",
       "video_url": "https://x.com/window98se/status/2117443255810027870"
+    },
+    {
+      "id": "20261103_1700",
+      "title": "오늘의 AI 브리핑 · 11/3 오후 5시",
+      "image": "briefings/2026-11-03/1700_ko.jpg",
+      "desc": "1. Railway 엔지니어의 AI 에이전트, 경쟁 클라우드에 접근 시도\n2. OpenAI, 자사 방어를 AI 보안팀과 뚫어본다\n3. Gemini 4 Argon 영상 한 편을 통째로 만들었다\n4. 오픈AI, 전 육군장관 영입 국가안보 자문 신설\n5. NC AI 배키 비전 3B 로봇 눈용 경량 모델",
+      "video_url": "https://x.com/window98se/status/2117518288397934882"
     }
   ]
 }
