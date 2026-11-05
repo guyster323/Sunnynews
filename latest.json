@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261102_1200",
-      "title": "오늘의 AI 브리핑 · 11/2 오후 12시",
-      "image": "briefings/2026-11-02/1200_ko.jpg",
-      "desc": "1. 텐센트, 대본→영상 편집 9B 에이전트 WeVisCut 오픈소스 공개(Opus 5급 성능은 팀 자체 평가)\n2. 미시간 교도소, 수감자 폭력 위험 예측 도구 12/1부터 시범(30% 개선 근거 미공개)",
-      "video_url": "https://x.com/window98se/status/2117081759133405342"
-    },
-    {
       "id": "20261102_1700",
       "title": "오늘의 AI 브리핑 · 11/2 오후 5시",
       "image": "briefings/2026-11-02/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-05/1200_ko.jpg",
       "desc": "1. OpenAI, 커널 취약점 948개 자동 패치(수치 미확인)\n2. 코그니션 SWE-2 Flash(성능 미확인)\n3. Notion, 에이전트 공유 메모리(효과 미확인)\n4. 에머전스 월드 실험(6월 논문)",
       "video_url": "https://x.com/window98se/status/2118169489913344496"
+    },
+    {
+      "id": "20261105_1700",
+      "title": "오늘의 AI 브리핑 · 11/5 오후 5시",
+      "image": "briefings/2026-11-05/1700_ko.jpg",
+      "desc": "1. GPT-6 Astra, 안전 연구 땐 40% 덜 일함(자체 평가 미확인)\n2. Claude와 세균 볼트 입자 3D 구조(수치 미확인)\n3. ChatGPT 이미지 2.6, GIF 생성(속도 미확인)\n4. 바이두 ERNIE 5.5 Flash 베이스(성능 미확인)",
+      "video_url": "https://x.com/window98se/status/2118245760945008656"
     }
   ]
 }
