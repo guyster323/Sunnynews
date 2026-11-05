@@ -1,74 +1,74 @@
 {
- "items": [
-  {
-   "id": "20261102_0700",
-   "title": "오늘의 AI 브리핑 · 11/2 오전 7시",
-   "image": "briefings/2026-11-02/0700_ko.jpg",
-   "desc": "1. Anthropic 홈페이지에 'Claude Mythos 5.5' 이름 노출\n2. 노스플랭크 해킹, 고객 AI API 키 악용\n3. AI 에이전트, 메일 속 인증코드로 스스로 지출 한도 올렸다\n4. MS AI 수장 술레이만 \"의식 있는 AI 만들지 말라\"\n5. 메타, 中 푸리에와 휴머노이드 'Max' 개발",
-   "video_url": "https://x.com/window98se/status/2117004979303338259"
-  },
-  {
-   "id": "20261102_1200",
-   "title": "오늘의 AI 브리핑 · 11/2 오후 12시",
-   "image": "briefings/2026-11-02/1200_ko.jpg",
-   "desc": "1. 텐센트, 대본→영상 편집 9B 에이전트 WeVisCut 오픈소스 공개(Opus 5급 성능은 팀 자체 평가)\n2. 미시간 교도소, 수감자 폭력 위험 예측 도구 12/1부터 시범(30% 개선 근거 미공개)",
-   "video_url": "https://x.com/window98se/status/2117081759133405342"
-  },
-  {
-   "id": "20261102_1700",
-   "title": "오늘의 AI 브리핑 · 11/2 오후 5시",
-   "image": "briefings/2026-11-02/1700_ko.jpg",
-   "desc": "1. 아부다비, OpenAI와 협약 4건 'AI 네이티브 정부' 추진\n2. SemiAnalysis 새 벤치마크 GDPx, 1위 Opus 5.5도 12%\n3. 메이투안 LongCat-2.5 공개(가중치 공개 시점 미확인)\n4. 캐나다 정부, Cohere에 최대 16억 캐나다달러 지분 투자",
-   "video_url": "https://x.com/window98se/status/2117155003744034884"
-  },
-  {
-   "id": "20261103_0700",
-   "title": "오늘의 AI 브리핑 · 11/3 오전 7시",
-   "image": "briefings/2026-11-03/0700_ko.jpg",
-   "desc": "1. Anthropic 상장서류 \"AI 가속 기준 곧 도달 가능\"\n2. Langflow 로그인 없이 뚫리는 9.8점 취약점(악용 미확인)\n3. OpenAI 일상 과제 벤치마크 LifeVal\n4. DeepSeek Harness Creator Mode 추가\n5. 골드만삭스, Claude Code 엔지니어만 쓰게 했다",
-   "video_url": "https://x.com/window98se/status/2117366436608032917"
-  },
-  {
-   "id": "20261103_1200",
-   "title": "오늘의 AI 브리핑 · 11/3 오후 12시",
-   "image": "briefings/2026-11-03/1200_ko.jpg",
-   "desc": "1. OpenAI, 자체 Git 백엔드 Pando 공개\n2. WorkOS 침해, AI 도구 ARTEX 쓰였을 가능성(회사 추정)\n3. 과학 연구용 오픈 웨이트 Hydrogen-1.0\n4. Mistral Large 4 기술 보고서",
-   "video_url": "https://x.com/window98se/status/2117443255810027870"
-  },
-  {
-   "id": "20261103_1700",
-   "title": "오늘의 AI 브리핑 · 11/3 오후 5시",
-   "image": "briefings/2026-11-03/1700_ko.jpg",
-   "desc": "1. Railway 엔지니어의 AI 에이전트, 경쟁 클라우드에 접근 시도\n2. OpenAI, 자사 방어를 AI 보안팀과 뚫어본다\n3. Gemini 4 Argon 영상 한 편을 통째로 만들었다\n4. 오픈AI, 전 육군장관 영입 국가안보 자문 신설\n5. NC AI 배키 비전 3B 로봇 눈용 경량 모델",
-   "video_url": "https://x.com/window98se/status/2117518288397934882"
-  },
-  {
-   "id": "20261104_0700",
-   "title": "오늘의 AI 브리핑 · 11/4 오전 7시",
-   "image": "briefings/2026-11-04/0700_ko.jpg",
-   "desc": "1. OpenAI, GPT-6 아스트라로 기기 설계·제작\n2. 메이퇀 롱캣-2.5 공개(성능은 자체 발표, 미확인)\n3. 앤스로픽 레지던시 지원 시작\n4. 바이낸스 63억 달러 해킹 보고서\n5. 깃북 AI 에이전트 공격 공지(미확인)",
-   "video_url": "https://x.com/window98se/status/2117729970781073589"
-  },
-  {
-   "id": "20261104_1200",
-   "title": "오늘의 AI 브리핑 · 11/4 오후 12시",
-   "image": "briefings/2026-11-04/1200_ko.jpg",
-   "desc": "1. MIT, 아스트라가 신경망 가중치 직접 편집(저자 보고, 미확인)\n2. 클로드 코드 제품 총괄 캣 우 퇴사\n3. fal 16.5억 달러 투자(기업가치 미확인)\n4. 멘로 기업 AI 지출 5.4배(추정)\n5. 프루나 오픈 이미지 모델(속도 미확인)",
-   "video_url": "https://x.com/window98se/status/2117804781146431933"
-  },
-  {
-   "id": "20261104_1700",
-   "title": "오늘의 AI 브리핑 · 11/4 오후 5시",
-   "image": "briefings/2026-11-04/1700_ko.jpg",
-   "desc": "1. ChatGPT 주간 이용자 12억 명, 인도가 최대 시장으로\n2. 텐센트 Hy4 정식판 공개(벤치마크 미확인)\n3. 구글, LLMjacking 경고\n4. 메타 150억 달러 회사채 발행\n5. Postman 앱 플러그인 자동 설치 제보(미확인)",
-   "video_url": "https://x.com/window98se/status/2117881408136085936"
-  },
-  {
-   "id": "20261105_0700",
-   "title": "오늘의 AI 브리핑 · 11/5 오전 7시",
-   "image": "briefings/2026-11-05/0700_ko.jpg",
-   "desc": "1. 문샷 AI, 2.8조 매개변수 키미 K3.1 프로 가중치 공개(성능 수치 미확인)\n2. OpenAI, 피에르 컴퓨터 인수 코덱스에 코드 저장소 통합\n3. 오픈AI 직원들이 수년간 보안 허점을 경고했다는 보도(미확인)\n4. 리커시브, 65B 오픈웨이트 'Ripple-65B' 공개(점수 자체 측정 미확인)\n5. Docker Sandboxes 복사 명령 결함, AI 에이전트가 호스트 파일 접근",
-   "video_url": "https://x.com/window98se/status/2118093249042895098"
-  }
- ]
+  "items": [
+    {
+      "id": "20261102_1200",
+      "title": "오늘의 AI 브리핑 · 11/2 오후 12시",
+      "image": "briefings/2026-11-02/1200_ko.jpg",
+      "desc": "1. 텐센트, 대본→영상 편집 9B 에이전트 WeVisCut 오픈소스 공개(Opus 5급 성능은 팀 자체 평가)\n2. 미시간 교도소, 수감자 폭력 위험 예측 도구 12/1부터 시범(30% 개선 근거 미공개)",
+      "video_url": "https://x.com/window98se/status/2117081759133405342"
+    },
+    {
+      "id": "20261102_1700",
+      "title": "오늘의 AI 브리핑 · 11/2 오후 5시",
+      "image": "briefings/2026-11-02/1700_ko.jpg",
+      "desc": "1. 아부다비, OpenAI와 협약 4건 'AI 네이티브 정부' 추진\n2. SemiAnalysis 새 벤치마크 GDPx, 1위 Opus 5.5도 12%\n3. 메이투안 LongCat-2.5 공개(가중치 공개 시점 미확인)\n4. 캐나다 정부, Cohere에 최대 16억 캐나다달러 지분 투자",
+      "video_url": "https://x.com/window98se/status/2117155003744034884"
+    },
+    {
+      "id": "20261103_0700",
+      "title": "오늘의 AI 브리핑 · 11/3 오전 7시",
+      "image": "briefings/2026-11-03/0700_ko.jpg",
+      "desc": "1. Anthropic 상장서류 \"AI 가속 기준 곧 도달 가능\"\n2. Langflow 로그인 없이 뚫리는 9.8점 취약점(악용 미확인)\n3. OpenAI 일상 과제 벤치마크 LifeVal\n4. DeepSeek Harness Creator Mode 추가\n5. 골드만삭스, Claude Code 엔지니어만 쓰게 했다",
+      "video_url": "https://x.com/window98se/status/2117366436608032917"
+    },
+    {
+      "id": "20261103_1200",
+      "title": "오늘의 AI 브리핑 · 11/3 오후 12시",
+      "image": "briefings/2026-11-03/1200_ko.jpg",
+      "desc": "1. OpenAI, 자체 Git 백엔드 Pando 공개\n2. WorkOS 침해, AI 도구 ARTEX 쓰였을 가능성(회사 추정)\n3. 과학 연구용 오픈 웨이트 Hydrogen-1.0\n4. Mistral Large 4 기술 보고서",
+      "video_url": "https://x.com/window98se/status/2117443255810027870"
+    },
+    {
+      "id": "20261103_1700",
+      "title": "오늘의 AI 브리핑 · 11/3 오후 5시",
+      "image": "briefings/2026-11-03/1700_ko.jpg",
+      "desc": "1. Railway 엔지니어의 AI 에이전트, 경쟁 클라우드에 접근 시도\n2. OpenAI, 자사 방어를 AI 보안팀과 뚫어본다\n3. Gemini 4 Argon 영상 한 편을 통째로 만들었다\n4. 오픈AI, 전 육군장관 영입 국가안보 자문 신설\n5. NC AI 배키 비전 3B 로봇 눈용 경량 모델",
+      "video_url": "https://x.com/window98se/status/2117518288397934882"
+    },
+    {
+      "id": "20261104_0700",
+      "title": "오늘의 AI 브리핑 · 11/4 오전 7시",
+      "image": "briefings/2026-11-04/0700_ko.jpg",
+      "desc": "1. OpenAI, GPT-6 아스트라로 기기 설계·제작\n2. 메이퇀 롱캣-2.5 공개(성능은 자체 발표, 미확인)\n3. 앤스로픽 레지던시 지원 시작\n4. 바이낸스 63억 달러 해킹 보고서\n5. 깃북 AI 에이전트 공격 공지(미확인)",
+      "video_url": "https://x.com/window98se/status/2117729970781073589"
+    },
+    {
+      "id": "20261104_1200",
+      "title": "오늘의 AI 브리핑 · 11/4 오후 12시",
+      "image": "briefings/2026-11-04/1200_ko.jpg",
+      "desc": "1. MIT, 아스트라가 신경망 가중치 직접 편집(저자 보고, 미확인)\n2. 클로드 코드 제품 총괄 캣 우 퇴사\n3. fal 16.5억 달러 투자(기업가치 미확인)\n4. 멘로 기업 AI 지출 5.4배(추정)\n5. 프루나 오픈 이미지 모델(속도 미확인)",
+      "video_url": "https://x.com/window98se/status/2117804781146431933"
+    },
+    {
+      "id": "20261104_1700",
+      "title": "오늘의 AI 브리핑 · 11/4 오후 5시",
+      "image": "briefings/2026-11-04/1700_ko.jpg",
+      "desc": "1. ChatGPT 주간 이용자 12억 명, 인도가 최대 시장으로\n2. 텐센트 Hy4 정식판 공개(벤치마크 미확인)\n3. 구글, LLMjacking 경고\n4. 메타 150억 달러 회사채 발행\n5. Postman 앱 플러그인 자동 설치 제보(미확인)",
+      "video_url": "https://x.com/window98se/status/2117881408136085936"
+    },
+    {
+      "id": "20261105_0700",
+      "title": "오늘의 AI 브리핑 · 11/5 오전 7시",
+      "image": "briefings/2026-11-05/0700_ko.jpg",
+      "desc": "1. 문샷 AI, 2.8조 매개변수 키미 K3.1 프로 가중치 공개(성능 수치 미확인)\n2. OpenAI, 피에르 컴퓨터 인수 코덱스에 코드 저장소 통합\n3. 오픈AI 직원들이 수년간 보안 허점을 경고했다는 보도(미확인)\n4. 리커시브, 65B 오픈웨이트 'Ripple-65B' 공개(점수 자체 측정 미확인)\n5. Docker Sandboxes 복사 명령 결함, AI 에이전트가 호스트 파일 접근",
+      "video_url": "https://x.com/window98se/status/2118093249042895098"
+    },
+    {
+      "id": "20261105_1200",
+      "title": "오늘의 AI 브리핑 · 11/5 오후 12시",
+      "image": "briefings/2026-11-05/1200_ko.jpg",
+      "desc": "1. OpenAI, 커널 취약점 948개 자동 패치(수치 미확인)\n2. 코그니션 SWE-2 Flash(성능 미확인)\n3. Notion, 에이전트 공유 메모리(효과 미확인)\n4. 에머전스 월드 실험(6월 논문)",
+      "video_url": "https://x.com/window98se/status/2118169489913344496"
+    }
+  ]
 }
