@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261103_1200",
-      "title": "오늘의 AI 브리핑 · 11/3 오후 12시",
-      "image": "briefings/2026-11-03/1200_ko.jpg",
-      "desc": "1. OpenAI, 자체 Git 백엔드 Pando 공개\n2. WorkOS 침해, AI 도구 ARTEX 쓰였을 가능성(회사 추정)\n3. 과학 연구용 오픈 웨이트 Hydrogen-1.0\n4. Mistral Large 4 기술 보고서",
-      "video_url": "https://x.com/window98se/status/2117443255810027870"
-    },
-    {
       "id": "20261103_1700",
       "title": "오늘의 AI 브리핑 · 11/3 오후 5시",
       "image": "briefings/2026-11-03/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-06/1200_ko.jpg",
       "desc": "1. Inkling 2 Small 공개, AA Index 31(가중치 시기 미확인)\n2. HF Ultimate MoE Handbook(수치 미확인)\n3. AItonomy Science's Last Exam / SLE 공개\n4. 앤트 링 Ling-3.2-flash(벤치 미확인)",
       "video_url": "https://x.com/window98se/status/2118530643785343049"
+    },
+    {
+      "id": "20261106_1700",
+      "title": "오늘의 AI 브리핑 · 11/6 오후 5시",
+      "image": "briefings/2026-11-06/1700_ko.jpg",
+      "desc": "1. METR: Anthropic 능력 ~2배(≈80% 미확인)\n2. Clocktower Bench · Astra Elo 1859\n3. Hyperkernel 오픈소스(vLLM 대비 주장 미확인)\n4. Glasshand 실물 iPhone·Mac 대여(가격 미확인)",
+      "video_url": "https://x.com/window98se/status/2118606855148839370"
     }
   ]
 }
