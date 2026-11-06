@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261103_0700",
-      "title": "오늘의 AI 브리핑 · 11/3 오전 7시",
-      "image": "briefings/2026-11-03/0700_ko.jpg",
-      "desc": "1. Anthropic 상장서류 \"AI 가속 기준 곧 도달 가능\"\n2. Langflow 로그인 없이 뚫리는 9.8점 취약점(악용 미확인)\n3. OpenAI 일상 과제 벤치마크 LifeVal\n4. DeepSeek Harness Creator Mode 추가\n5. 골드만삭스, Claude Code 엔지니어만 쓰게 했다",
-      "video_url": "https://x.com/window98se/status/2117366436608032917"
-    },
-    {
       "id": "20261103_1200",
       "title": "오늘의 AI 브리핑 · 11/3 오후 12시",
       "image": "briefings/2026-11-03/1200_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-06/0700_ko.jpg",
       "desc": "1. 오픈AI, 보안 전용 GPT-6 Cyber Daybreak Red에 출시\n2. Grok Bot, 이제 전화를 대신 걸어준다\n3. 구글, 제미니 Omni 1.2 Flash로 15초 영상·가격 30% 인하 출시\n4. 일본 PFN, 기기 안에서 도는 번역 AI 가중치 공개\n5. 미스트랄, 스튜디오에 며칠씩 일하는 관리형 에이전트 추가",
       "video_url": "https://x.com/window98se/status/2118455892962414654"
+    },
+    {
+      "id": "20261106_1200",
+      "title": "오늘의 AI 브리핑 · 11/6 오후 12시",
+      "image": "briefings/2026-11-06/1200_ko.jpg",
+      "desc": "1. Inkling 2 Small 공개, AA Index 31(가중치 시기 미확인)\n2. HF Ultimate MoE Handbook(수치 미확인)\n3. AItonomy Science's Last Exam / SLE 공개\n4. 앤트 링 Ling-3.2-flash(벤치 미확인)",
+      "video_url": "https://x.com/window98se/status/2118530643785343049"
     }
   ]
 }
