@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261103_1700",
-      "title": "오늘의 AI 브리핑 · 11/3 오후 5시",
-      "image": "briefings/2026-11-03/1700_ko.jpg",
-      "desc": "1. Railway 엔지니어의 AI 에이전트, 경쟁 클라우드에 접근 시도\n2. OpenAI, 자사 방어를 AI 보안팀과 뚫어본다\n3. Gemini 4 Argon 영상 한 편을 통째로 만들었다\n4. 오픈AI, 전 육군장관 영입 국가안보 자문 신설\n5. NC AI 배키 비전 3B 로봇 눈용 경량 모델",
-      "video_url": "https://x.com/window98se/status/2117518288397934882"
-    },
-    {
       "id": "20261104_0700",
       "title": "오늘의 AI 브리핑 · 11/4 오전 7시",
       "image": "briefings/2026-11-04/0700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-06/1700_ko.jpg",
       "desc": "1. METR: Anthropic 능력 ~2배(≈80% 미확인)\n2. Clocktower Bench · Astra Elo 1859\n3. Hyperkernel 오픈소스(vLLM 대비 주장 미확인)\n4. Glasshand 실물 iPhone·Mac 대여(가격 미확인)",
       "video_url": "https://x.com/window98se/status/2118606855148839370"
+    },
+    {
+      "id": "20261107_0700",
+      "title": "오늘의 AI 브리핑 · 11/7 오전 7시",
+      "image": "briefings/2026-11-07/0700_ko.jpg",
+      "desc": "1. Claude Code UA 이메일 유출(스캠 인과 미확인)\n2. Claude Code 서브에이전트 상태 ~99% 저렴(범위 미확인)\n3. Conductor, Meta 합류 · 클라우드 11/20 종료\n4. Perplexity Teammates(사내 수치 미확인)\n5. OpenAI BioBasicsBench(벤치 코드 공개 미확인)",
+      "video_url": "https://x.com/window98se/status/2118821078944391379"
     }
   ]
 }
