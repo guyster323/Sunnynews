@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261104_0700",
-      "title": "오늘의 AI 브리핑 · 11/4 오전 7시",
-      "image": "briefings/2026-11-04/0700_ko.jpg",
-      "desc": "1. OpenAI, GPT-6 아스트라로 기기 설계·제작\n2. 메이퇀 롱캣-2.5 공개(성능은 자체 발표, 미확인)\n3. 앤스로픽 레지던시 지원 시작\n4. 바이낸스 63억 달러 해킹 보고서\n5. 깃북 AI 에이전트 공격 공지(미확인)",
-      "video_url": "https://x.com/window98se/status/2117729970781073589"
-    },
-    {
       "id": "20261104_1200",
       "title": "오늘의 AI 브리핑 · 11/4 오후 12시",
       "image": "briefings/2026-11-04/1200_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-07/0700_ko.jpg",
       "desc": "1. Claude Code UA 이메일 유출(스캠 인과 미확인)\n2. Claude Code 서브에이전트 상태 ~99% 저렴(범위 미확인)\n3. Conductor, Meta 합류 · 클라우드 11/20 종료\n4. Perplexity Teammates(사내 수치 미확인)\n5. OpenAI BioBasicsBench(벤치 코드 공개 미확인)",
       "video_url": "https://x.com/window98se/status/2118821078944391379"
+    },
+    {
+      "id": "20261107_1200",
+      "title": "오늘의 AI 브리핑 · 11/7 오후 12시",
+      "image": "briefings/2026-11-07/1200_ko.jpg",
+      "desc": "1. Anthropic dreaming(독립검증 미확인)\n2. Anthropic Science Blog 과학 모델(신규발견 미확인)\n3. OpenAI×FMF 탈옥 평가틀(일치·실위험 미확인)\n4. DeepMind RSA-1024(회사 추정 미확인)",
+      "video_url": "https://x.com/window98se/status/2118895047378632911"
     }
   ]
 }
