@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261104_1200",
-      "title": "오늘의 AI 브리핑 · 11/4 오후 12시",
-      "image": "briefings/2026-11-04/1200_ko.jpg",
-      "desc": "1. MIT, 아스트라가 신경망 가중치 직접 편집(저자 보고, 미확인)\n2. 클로드 코드 제품 총괄 캣 우 퇴사\n3. fal 16.5억 달러 투자(기업가치 미확인)\n4. 멘로 기업 AI 지출 5.4배(추정)\n5. 프루나 오픈 이미지 모델(속도 미확인)",
-      "video_url": "https://x.com/window98se/status/2117804781146431933"
-    },
-    {
       "id": "20261104_1700",
       "title": "오늘의 AI 브리핑 · 11/4 오후 5시",
       "image": "briefings/2026-11-04/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-07/1200_ko.jpg",
       "desc": "1. Anthropic dreaming(독립검증 미확인)\n2. Anthropic Science Blog 과학 모델(신규발견 미확인)\n3. OpenAI×FMF 탈옥 평가틀(일치·실위험 미확인)\n4. DeepMind RSA-1024(회사 추정 미확인)",
       "video_url": "https://x.com/window98se/status/2118895047378632911"
+    },
+    {
+      "id": "20261107_1700",
+      "title": "오늘의 AI 브리핑 · 11/7 오후 5시",
+      "image": "briefings/2026-11-07/1700_ko.jpg",
+      "desc": "1. Nous Arete-27B(독립검증 미확인)\n2. PSI Aaronson-Ambainis Lean(동료심사 미확인)\n3. Antigravity Voice(요금제 범위 미확인)\n4. NVIDIA Lyra 2.0(연구용·품질 미확인)",
+      "video_url": "https://x.com/window98se/status/2118969424883630508"
     }
   ]
 }
