@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261106_0700",
-      "title": "오늘의 AI 브리핑 · 11/6 오전 7시",
-      "image": "briefings/2026-11-06/0700_ko.jpg",
-      "desc": "1. 오픈AI, 보안 전용 GPT-6 Cyber Daybreak Red에 출시\n2. Grok Bot, 이제 전화를 대신 걸어준다\n3. 구글, 제미니 Omni 1.2 Flash로 15초 영상·가격 30% 인하 출시\n4. 일본 PFN, 기기 안에서 도는 번역 AI 가중치 공개\n5. 미스트랄, 스튜디오에 며칠씩 일하는 관리형 에이전트 추가",
-      "video_url": "https://x.com/window98se/status/2118455892962414654"
-    },
-    {
       "id": "20261106_1200",
       "title": "오늘의 AI 브리핑 · 11/6 오후 12시",
       "image": "briefings/2026-11-06/1200_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-09/1700_ko.jpg",
       "desc": "1. GPT-6.2 Sol 조용히 배포? 사용자 보고 확산 (미확인)\n2. Artificial Analysis 결정 지수 v2, 자신감까지 채점\n3. DeepSeek Harness, 석 달 만에 하루 154만 명\n4. LG K-EXAONE 2.5 API 누구나 무료",
       "video_url": "https://x.com/window98se/status/2119693306963865733"
+    },
+    {
+      "id": "20261110_0700",
+      "title": "오늘의 AI 브리핑 · 11/10 오전 7시",
+      "image": "briefings/2026-11-10/0700_ko.jpg",
+      "desc": "1. Claude Fable 5.2 공개, API 가격 20% 인하\n2. 구글 TPU 8tx·8i Max, 한 해 TPU 4종은 처음\n3. 어도비, 디즈니 전용 AI 모델 만든다\n4. AI 스튜디오, 지도 앱을 프롬프트 하나로\n5. 오토매틱 Spacefast, AI 앱을 채팅서 바로 공개",
+      "video_url": "https://x.com/window98se/status/2119904556440277392"
     }
   ]
 }
