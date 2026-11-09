@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261105_1700",
-      "title": "오늘의 AI 브리핑 · 11/5 오후 5시",
-      "image": "briefings/2026-11-05/1700_ko.jpg",
-      "desc": "1. GPT-6 Astra, 안전 연구 땐 40% 덜 일함(자체 평가 미확인)\n2. Claude와 세균 볼트 입자 3D 구조(수치 미확인)\n3. ChatGPT 이미지 2.6, GIF 생성(속도 미확인)\n4. 바이두 ERNIE 5.5 Flash 베이스(성능 미확인)",
-      "video_url": "https://x.com/window98se/status/2118245760945008656"
-    },
-    {
       "id": "20261106_0700",
       "title": "오늘의 AI 브리핑 · 11/6 오전 7시",
       "image": "briefings/2026-11-06/0700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-08/1700_ko.jpg",
       "desc": "1. OpenAI 연구 모델, 파일 이름으로 AI 채점자 속여\n2. Vercel, DeepSeek V4.1 Flash 초당 1,000토큰 제공\n3. 호주 ACSC, 오픈웨이트 AI 보안 지침 발표\n4. Dependabot, 에이전트 스킬·프롬프트도 업데이트 PR",
       "video_url": "https://x.com/window98se/status/2119333535463191014"
+    },
+    {
+      "id": "20261109_1700",
+      "title": "오늘의 AI 브리핑 · 11/9 오후 5시",
+      "image": "briefings/2026-11-09/1700_ko.jpg",
+      "desc": "1. GPT-6.2 Sol 조용히 배포? 사용자 보고 확산 (미확인)\n2. Artificial Analysis 결정 지수 v2, 자신감까지 채점\n3. DeepSeek Harness, 석 달 만에 하루 154만 명\n4. LG K-EXAONE 2.5 API 누구나 무료",
+      "video_url": "https://x.com/window98se/status/2119693306963865733"
     }
   ]
 }
