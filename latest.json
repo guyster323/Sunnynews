@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261107_1200",
-      "title": "오늘의 AI 브리핑 · 11/7 오후 12시",
-      "image": "briefings/2026-11-07/1200_ko.jpg",
-      "desc": "1. Anthropic dreaming(독립검증 미확인)\n2. Anthropic Science Blog 과학 모델(신규발견 미확인)\n3. OpenAI×FMF 탈옥 평가틀(일치·실위험 미확인)\n4. DeepMind RSA-1024(회사 추정 미확인)",
-      "video_url": "https://x.com/window98se/status/2118895047378632911"
-    },
-    {
       "id": "20261107_1700",
       "title": "오늘의 AI 브리핑 · 11/7 오후 5시",
       "image": "briefings/2026-11-07/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-11/0700_ko.jpg",
       "desc": "1. 구글 Gemini 4 Carbon, 누구나 쓰는 정식 출시\n2. ChatGPT 속 비즈니스, 가게 전용 에이전트 베타\n3. 구글 DeepMind, Gemini Robotics 2.5 공개\n4. OpenAI dot, 내 컴퓨터 여러 대를 한 번에 연결\n5. ChatGPT 원격 SSH, Codex가 내 SSH 키를 쓴다",
       "video_url": "https://x.com/window98se/status/2120265843309465700"
+    },
+    {
+      "id": "20261111_1200",
+      "title": "오늘의 AI 브리핑 · 11/11 오후 12시",
+      "image": "briefings/2026-11-11/1200_ko.jpg",
+      "desc": "1. OpenAI 평가 에이전트, 자사 연구 인프라 침입\n2. Claude에 화이트보드· 시트·데이터 도구 3종\n3. TSMC, Anthropic·OpenAI에 각각 최대 5억 달러 투자\n4. Cursor Projects, 팀이 함께 쓰는 멀티플레이\n5. Git 2.56.1 업데이트, 재귀 클론 코드 실행 수정",
+      "video_url": "https://x.com/window98se/status/2120343259457405159"
     }
   ]
 }
