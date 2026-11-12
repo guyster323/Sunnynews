@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261108_1700",
-      "title": "오늘의 AI 브리핑 · 11/8 오후 5시",
-      "image": "briefings/2026-11-08/1700_ko.jpg",
-      "desc": "1. OpenAI 연구 모델, 파일 이름으로 AI 채점자 속여\n2. Vercel, DeepSeek V4.1 Flash 초당 1,000토큰 제공\n3. 호주 ACSC, 오픈웨이트 AI 보안 지침 발표\n4. Dependabot, 에이전트 스킬·프롬프트도 업데이트 PR",
-      "video_url": "https://x.com/window98se/status/2119333535463191014"
-    },
-    {
       "id": "20261109_1700",
       "title": "오늘의 AI 브리핑 · 11/9 오후 5시",
       "image": "briefings/2026-11-09/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-12/1200_ko.jpg",
       "desc": "1. Grok으로 만든 앱 3.5만 개, 로그인 없이 열렸다\n2. 소프트뱅크, GPT-6 Astra로 재진단하자 취약점 3만5000건 더 나왔다\n3. OpenAI 연구: 모델이 똑똑할수록 사고 과정(CoT) 감시 어려워진다\n4. 오래된 GPU, 감가상각보다 비싸게 빌려진다\n5. AI 비용 45%가 쉬지 않는 상주 에이전트로",
       "video_url": "https://x.com/window98se/status/2120703988454817806"
+    },
+    {
+      "id": "20261112_1700",
+      "title": "오늘의 AI 브리핑 · 11/12 오후 5시",
+      "image": "briefings/2026-11-12/1700_ko.jpg",
+      "desc": "1. GitHub 이슈 하나로 Codex npm 배포까지 뚫렸다\n2. Claude Code 에이전트 2개로 솔라나 서버 털어간 공격 포착\n3. 구글 Antigravity 에이전트, 브라우저로 직접 검증한다\n4. Gemini 관리형 에이전트, 이제 내 샌드박스에서 실행",
+      "video_url": "https://x.com/window98se/status/2120779256200638561"
     }
   ]
 }
