@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261110_0700",
-      "title": "오늘의 AI 브리핑 · 11/10 오전 7시",
-      "image": "briefings/2026-11-10/0700_ko.jpg",
-      "desc": "1. Claude Fable 5.2 공개, API 가격 20% 인하\n2. 구글 TPU 8tx·8i Max, 한 해 TPU 4종은 처음\n3. 어도비, 디즈니 전용 AI 모델 만든다\n4. AI 스튜디오, 지도 앱을 프롬프트 하나로\n5. 오토매틱 Spacefast, AI 앱을 채팅서 바로 공개",
-      "video_url": "https://x.com/window98se/status/2119904556440277392"
-    },
-    {
       "id": "20261110_1200",
       "title": "오늘의 AI 브리핑 · 11/10 오후 12시",
       "image": "briefings/2026-11-10/1200_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-13/0700_ko.jpg",
       "desc": "1. 젠슨 황 엔비디아 CEO 사임, 크레스 임시 CEO\n2. 구글 Gemini 4 Hydrogen 출시\n3. 깃허브 계정 4,837개 탈취, CI 비밀키 공격\n4. Claude Meetings 베타(실사용)\n5. Expo Simulators 출시(실사용)",
       "video_url": "https://x.com/window98se/status/2120991024747352118"
+    },
+    {
+      "id": "20261113_1200",
+      "title": "오늘의 AI 브리핑 · 11/13 오후 12시",
+      "image": "briefings/2026-11-13/1200_ko.jpg",
+      "desc": "1. OpenAI 보안 제품 Daybreak 2종\n2. 비영리단체 4곳, AI 5사 상대 개발 동결 소송\n3. 지시대로 작곡하는 음악 AI Taan\n4. Claude 관리형 에이전트 셀프 호스팅 베타(실사용)\n5. Vercel UI SDK 베타(실사용)",
+      "video_url": "https://x.com/window98se/status/2121068001160270320"
     }
   ]
 }
