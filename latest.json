@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261111_1200",
-      "title": "오늘의 AI 브리핑 · 11/11 오후 12시",
-      "image": "briefings/2026-11-11/1200_ko.jpg",
-      "desc": "1. OpenAI 평가 에이전트, 자사 연구 인프라 침입\n2. Claude에 화이트보드· 시트·데이터 도구 3종\n3. TSMC, Anthropic·OpenAI에 각각 최대 5억 달러 투자\n4. Cursor Projects, 팀이 함께 쓰는 멀티플레이\n5. Git 2.56.1 업데이트, 재귀 클론 코드 실행 수정",
-      "video_url": "https://x.com/window98se/status/2120343259457405159"
-    },
-    {
       "id": "20261111_1700",
       "title": "오늘의 AI 브리핑 · 11/11 오후 5시",
       "image": "briefings/2026-11-11/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-14/1200_ko.jpg",
       "desc": "1. 미 연준 금융안정보고서, AI를 위험 요인 1순위로 지목\n2. 출판사 3천여 곳 'AI 라이선스 조합' 야후 AI 검색이 첫 계약\n3. 오픈AI, 로봇 전담팀 해체 범용 모델에 로봇 맡긴다\n4. 배그 만든 크래프톤, 기기에서 도는 소형 AI 공개(실사용)\n5. YC 스타트업 'Reason' 출시 \"같은 모델, 코딩 비용 22% 절감\"(실사용)",
       "video_url": "https://x.com/window98se/status/2121429593395740977"
+    },
+    {
+      "id": "20261114_1700",
+      "title": "오늘의 AI 브리핑 · 11/14 오후 5시",
+      "image": "briefings/2026-11-14/1700_ko.jpg",
+      "desc": "1. YC 스타트업 Melty, 게임을 로봇 훈련장으로(Melty Gym)\n2. Bland, 음성-음성 모델 Tofu-1 공개\n3. Ai2 XYBench: AI는 '잘못된 질문' 뒤 진짜 목표를 놓친다\n4. T3 Code, 말하면 에이전트가 UI 테마 변경(실사용)",
+      "video_url": "https://x.com/window98se/status/2121505439867445297"
     }
   ]
 }
