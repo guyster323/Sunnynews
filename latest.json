@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261111_0700",
-      "title": "오늘의 AI 브리핑 · 11/11 오전 7시",
-      "image": "briefings/2026-11-11/0700_ko.jpg",
-      "desc": "1. 구글 Gemini 4 Carbon, 누구나 쓰는 정식 출시\n2. ChatGPT 속 비즈니스, 가게 전용 에이전트 베타\n3. 구글 DeepMind, Gemini Robotics 2.5 공개\n4. OpenAI dot, 내 컴퓨터 여러 대를 한 번에 연결\n5. ChatGPT 원격 SSH, Codex가 내 SSH 키를 쓴다",
-      "video_url": "https://x.com/window98se/status/2120265843309465700"
-    },
-    {
       "id": "20261111_1200",
       "title": "오늘의 AI 브리핑 · 11/11 오후 12시",
       "image": "briefings/2026-11-11/1200_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-14/0700_ko.jpg",
       "desc": "1. 오픈AI ChatGPT Wallet, 에이전트 대신 결제\n2. FBI, AI 해킹 도구 ARTEX 악용 경보\n3. Sierra 에이전트 표준 Poppy v1.0\n4. DeepSeek 앱 기능 API 개방(실사용)\n5. llama.cpp v1.0.0 출시(실사용)",
       "video_url": "https://x.com/window98se/status/2121356355030442197"
+    },
+    {
+      "id": "20261114_1200",
+      "title": "오늘의 AI 브리핑 · 11/14 오후 12시",
+      "image": "briefings/2026-11-14/1200_ko.jpg",
+      "desc": "1. 미 연준 금융안정보고서, AI를 위험 요인 1순위로 지목\n2. 출판사 3천여 곳 'AI 라이선스 조합' 야후 AI 검색이 첫 계약\n3. 오픈AI, 로봇 전담팀 해체 범용 모델에 로봇 맡긴다\n4. 배그 만든 크래프톤, 기기에서 도는 소형 AI 공개(실사용)\n5. YC 스타트업 'Reason' 출시 \"같은 모델, 코딩 비용 22% 절감\"(실사용)",
+      "video_url": "https://x.com/window98se/status/2121429593395740977"
     }
   ]
 }
