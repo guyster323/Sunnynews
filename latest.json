@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261111_1700",
-      "title": "오늘의 AI 브리핑 · 11/11 오후 5시",
-      "image": "briefings/2026-11-11/1700_ko.jpg",
-      "desc": "1. 알리바바 Qwen4 시동, Qwen4-Max 프리뷰 공개\n2. 에이전트 떼가 만든 언리얼 엔진 5.9 프리뷰\n3. 바이두 ERNIE 5.5 Flash Preview 공개\n4. ChatGPT 옛 음성 모드, 12/11 종료·GPT-Live로\n5. 크롬, 코딩 에이전트에 최신 웹 가이드 1.0",
-      "video_url": "https://x.com/window98se/status/2120419332375347474"
-    },
-    {
       "id": "20261112_0700",
       "title": "오늘의 AI 브리핑 · 11/12 오전 7시",
       "image": "briefings/2026-11-12/0700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-14/1700_ko.jpg",
       "desc": "1. YC 스타트업 Melty, 게임을 로봇 훈련장으로(Melty Gym)\n2. Bland, 음성-음성 모델 Tofu-1 공개\n3. Ai2 XYBench: AI는 '잘못된 질문' 뒤 진짜 목표를 놓친다\n4. T3 Code, 말하면 에이전트가 UI 테마 변경(실사용)",
       "video_url": "https://x.com/window98se/status/2121505439867445297"
+    },
+    {
+      "id": "20261118_1700",
+      "title": "오늘의 AI 브리핑 · 11/18 오후 5시",
+      "image": "briefings/2026-11-18/1700_ko.jpg",
+      "desc": "1. OpenAI GPT-6.2 Astra·Sol 출시, 비용은 3분의 1 이하\n2. 패치를 읽고 공격까지, '완전 자동' AI 해킹 첫 포착\n3. Cognition Devin Bots, 에이전트 팀을 이끄는 AI 동료\n4. Gemini '태스크', 한국 포함 6개국 무료 개방\n5. MS 코딩 모델 MAI Code 2, GitHub Copilot에 정식 탑재",
+      "video_url": "https://x.com/window98se/status/2122954206076383268"
     }
   ]
 }
