@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261112_1700",
-      "title": "오늘의 AI 브리핑 · 11/12 오후 5시",
-      "image": "briefings/2026-11-12/1700_ko.jpg",
-      "desc": "1. GitHub 이슈 하나로 Codex npm 배포까지 뚫렸다\n2. Claude Code 에이전트 2개로 솔라나 서버 털어간 공격 포착\n3. 구글 Antigravity 에이전트, 브라우저로 직접 검증한다\n4. Gemini 관리형 에이전트, 이제 내 샌드박스에서 실행",
-      "video_url": "https://x.com/window98se/status/2120779256200638561"
-    },
-    {
       "id": "20261113_0700",
       "title": "오늘의 AI 브리핑 · 11/13 오전 7시",
       "image": "briefings/2026-11-13/0700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-19/1200_ko.jpg",
       "desc": "1. 구글 'Gemini 4 Neon' 출시, 카본보다 싸고 빠른 프런티어급\n2. 팔로알토 네트웍스, 어플라이드 컴퓨트 45억 달러에 인수\n3. 오픈AI '연구 가속' 보고서: 2~4시간 과제 46% 성공\n4. AI가 천체물리 논문 5만 편 감사, 오류 872건(사람 검증 미확인)",
       "video_url": "https://x.com/window98se/status/2123241646087422147"
+    },
+    {
+      "id": "20261119_1700",
+      "title": "오늘의 AI 브리핑 · 11/19 오후 5시",
+      "image": "briefings/2026-11-19/1700_ko.jpg",
+      "desc": "1. 오픈AI 모델, AMD GPU 설계 전력·성능·면적 최대 14% 개선(오픈AI 자체 발표)\n2. ChatGPT 실시간 받아쓰기, 10분 녹음 제한 없앰\n3. 오픈AI API, 2시간·8시간 완료 창 쓰면 토큰값 최대 40%↓\n4. 오픈AI, Codex 샌드박스 작동 방식 공개",
+      "video_url": "https://x.com/window98se/status/2123317623639490754"
     }
   ]
 }
