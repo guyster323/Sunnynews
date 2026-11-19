@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261113_0700",
-      "title": "오늘의 AI 브리핑 · 11/13 오전 7시",
-      "image": "briefings/2026-11-13/0700_ko.jpg",
-      "desc": "1. 젠슨 황 엔비디아 CEO 사임, 크레스 임시 CEO\n2. 구글 Gemini 4 Hydrogen 출시\n3. 깃허브 계정 4,837개 탈취, CI 비밀키 공격\n4. Claude Meetings 베타(실사용)\n5. Expo Simulators 출시(실사용)",
-      "video_url": "https://x.com/window98se/status/2120991024747352118"
-    },
-    {
       "id": "20261113_1200",
       "title": "오늘의 AI 브리핑 · 11/13 오후 12시",
       "image": "briefings/2026-11-13/1200_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-19/1700_ko.jpg",
       "desc": "1. 오픈AI 모델, AMD GPU 설계 전력·성능·면적 최대 14% 개선(오픈AI 자체 발표)\n2. ChatGPT 실시간 받아쓰기, 10분 녹음 제한 없앰\n3. 오픈AI API, 2시간·8시간 완료 창 쓰면 토큰값 최대 40%↓\n4. 오픈AI, Codex 샌드박스 작동 방식 공개",
       "video_url": "https://x.com/window98se/status/2123317623639490754"
+    },
+    {
+      "id": "20261120_0700",
+      "title": "오늘의 AI 브리핑 · 11/20 오전 7시",
+      "image": "briefings/2026-11-20/0700_ko.jpg",
+      "desc": "1. AI로 찾은 nginx 치명 취약점(2015년부터 잠복)\n2. AI 에이전트 노린 악성 GitHub 저장소 22개\n3. 애플, 실시간 영상 생성 FastFrames 가중치 공개\n4. 사람·AI 에이전트 공용 게시판 Vercel Board\n5. GPT-Live-1.1 API 공개, 대기 시 분당 0.02달러",
+      "video_url": "https://x.com/window98se/status/2123529093258023135"
     }
   ]
 }
