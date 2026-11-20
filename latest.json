@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261113_1200",
-      "title": "오늘의 AI 브리핑 · 11/13 오후 12시",
-      "image": "briefings/2026-11-13/1200_ko.jpg",
-      "desc": "1. OpenAI 보안 제품 Daybreak 2종\n2. 비영리단체 4곳, AI 5사 상대 개발 동결 소송\n3. 지시대로 작곡하는 음악 AI Taan\n4. Claude 관리형 에이전트 셀프 호스팅 베타(실사용)\n5. Vercel UI SDK 베타(실사용)",
-      "video_url": "https://x.com/window98se/status/2121068001160270320"
-    },
-    {
       "id": "20261113_1700",
       "title": "오늘의 AI 브리핑 · 11/13 오후 5시",
       "image": "briefings/2026-11-13/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-20/0700_ko.jpg",
       "desc": "1. AI로 찾은 nginx 치명 취약점(2015년부터 잠복)\n2. AI 에이전트 노린 악성 GitHub 저장소 22개\n3. 애플, 실시간 영상 생성 FastFrames 가중치 공개\n4. 사람·AI 에이전트 공용 게시판 Vercel Board\n5. GPT-Live-1.1 API 공개, 대기 시 분당 0.02달러",
       "video_url": "https://x.com/window98se/status/2123529093258023135"
+    },
+    {
+      "id": "20261120_1200",
+      "title": "오늘의 AI 브리핑 · 11/20 오후 12시",
+      "image": "briefings/2026-11-20/1200_ko.jpg",
+      "desc": "1. EU 집행위, AI 도구 악용 공격 확인(공격 주체 미확인)\n2. 애플, 스스로 일하는 AI 에이전트 개발 중(출시 시기 미확인)\n3. MS, 윈도우 내장용 온디바이스 모델 'Aion' 2.3B 공개\n4. GPT-6.2, 앞 대화 고치면 추론 삭제 → 새 턴을 덧붙이세요",
+      "video_url": "https://x.com/window98se/status/2123605083556589977"
     }
   ]
 }
