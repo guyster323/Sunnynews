@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261114_1200",
-      "title": "오늘의 AI 브리핑 · 11/14 오후 12시",
-      "image": "briefings/2026-11-14/1200_ko.jpg",
-      "desc": "1. 미 연준 금융안정보고서, AI를 위험 요인 1순위로 지목\n2. 출판사 3천여 곳 'AI 라이선스 조합' 야후 AI 검색이 첫 계약\n3. 오픈AI, 로봇 전담팀 해체 범용 모델에 로봇 맡긴다\n4. 배그 만든 크래프톤, 기기에서 도는 소형 AI 공개(실사용)\n5. YC 스타트업 'Reason' 출시 \"같은 모델, 코딩 비용 22% 절감\"(실사용)",
-      "video_url": "https://x.com/window98se/status/2121429593395740977"
-    },
-    {
       "id": "20261114_1700",
       "title": "오늘의 AI 브리핑 · 11/14 오후 5시",
       "image": "briefings/2026-11-14/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-21/0700_ko.jpg",
       "desc": "1. Anthropic 수학자 \"Claude와 리만 가설 증명\" 주장 (미확인)\n2. 팔로알토, 어플라이드 컴퓨트 45억 달러 인수\n3. OpenAI, 모델 '증류' 공격 방어 연구 공개\n4. 회계 업무용 ChatGPT for Accounting 출시\n5. Gemini 앱, 말로 GIF 만드는 기능",
       "video_url": "https://x.com/window98se/status/2123890020197216441"
+    },
+    {
+      "id": "20261121_1200",
+      "title": "오늘의 AI 브리핑 · 11/21 오후 12시",
+      "image": "briefings/2026-11-21/1200_ko.jpg",
+      "desc": "1. Thinking Machines 오픈 모델 Inkling 2 Mini, Goodfire가 내부 해부\n2. Isomorphic Labs, MSD와 AI 항암제 설계 협력\n3. AI 프롬프트 200만 건 속 가짜 키가 털렸다\n4. Perplexity Computer, 이제 크롬 확장으로",
+      "video_url": "https://x.com/window98se/status/2123967695746179518"
     }
   ]
 }
