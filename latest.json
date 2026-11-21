@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261114_1700",
-      "title": "오늘의 AI 브리핑 · 11/14 오후 5시",
-      "image": "briefings/2026-11-14/1700_ko.jpg",
-      "desc": "1. YC 스타트업 Melty, 게임을 로봇 훈련장으로(Melty Gym)\n2. Bland, 음성-음성 모델 Tofu-1 공개\n3. Ai2 XYBench: AI는 '잘못된 질문' 뒤 진짜 목표를 놓친다\n4. T3 Code, 말하면 에이전트가 UI 테마 변경(실사용)",
-      "video_url": "https://x.com/window98se/status/2121505439867445297"
-    },
-    {
       "id": "20261118_1700",
       "title": "오늘의 AI 브리핑 · 11/18 오후 5시",
       "image": "briefings/2026-11-18/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-21/1200_ko.jpg",
       "desc": "1. Thinking Machines 오픈 모델 Inkling 2 Mini, Goodfire가 내부 해부\n2. Isomorphic Labs, MSD와 AI 항암제 설계 협력\n3. AI 프롬프트 200만 건 속 가짜 키가 털렸다\n4. Perplexity Computer, 이제 크롬 확장으로",
       "video_url": "https://x.com/window98se/status/2123967695746179518"
+    },
+    {
+      "id": "20261121_1700",
+      "title": "오늘의 AI 브리핑 · 11/21 오후 5시",
+      "image": "briefings/2026-11-21/1700_ko.jpg",
+      "desc": "1. METR: AI 에이전트 작업 길이 약 3.6개월마다 2배\n2. Prime Intellect, DeepSeek 엔드포인트 모델 53시간 무단 교체\n3. 오라클 \"OpenAI 인프라 계약 자금 전액 확보\"\n4. 손정의, SK하이닉스 1조 달러 인수 타진 보도 (금융사 논의 미확인)",
+      "video_url": "https://x.com/window98se/status/2124043364136063457"
     }
   ]
 }
