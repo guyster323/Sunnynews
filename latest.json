@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261121_1200",
-      "title": "오늘의 AI 브리핑 · 11/21 오후 12시",
-      "image": "briefings/2026-11-21/1200_ko.jpg",
-      "desc": "1. Thinking Machines 오픈 모델 Inkling 2 Mini, Goodfire가 내부 해부\n2. Isomorphic Labs, MSD와 AI 항암제 설계 협력\n3. AI 프롬프트 200만 건 속 가짜 키가 털렸다\n4. Perplexity Computer, 이제 크롬 확장으로",
-      "video_url": "https://x.com/window98se/status/2123967695746179518"
-    },
-    {
       "id": "20261121_1700",
       "title": "오늘의 AI 브리핑 · 11/21 오후 5시",
       "image": "briefings/2026-11-21/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-24/1200_ko.jpg",
       "desc": "1. OpenAI·시스코 Shirudo, 패치 전 서버를 AI가 막는다\n2. 하프너의 로봇 두뇌 Embo, 1.1억 달러 시드\n3. AI 에이전트 공급망 공격, '실행'에서 '지시'로\n4. AWS WAF, LLM·MCP·A2A 입구 자동 보호\n5. Claude 커넥터·스킬, 플러그인으로 통합",
       "video_url": "https://x.com/window98se/status/2125054319745794266"
+    },
+    {
+      "id": "20261124_1700",
+      "title": "오늘의 AI 브리핑 · 11/24 오후 5시",
+      "image": "briefings/2026-11-24/1700_ko.jpg",
+      "desc": "1. Codex, 로봇 벤치 RoboDojo 97%로 졸업\n2. MS AI, 장기 강화학습 인프라 Rocket 공개\n3. 바이두 ERNIE 5.5 Flash 프리뷰 가중치 공개\n4. 센스타임 U1.6, 그림 속 오타 스스로 수정",
+      "video_url": "https://x.com/window98se/status/2125129680055644466"
     }
   ]
 }
