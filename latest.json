@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261121_1700",
-      "title": "오늘의 AI 브리핑 · 11/21 오후 5시",
-      "image": "briefings/2026-11-21/1700_ko.jpg",
-      "desc": "1. METR: AI 에이전트 작업 길이 약 3.6개월마다 2배\n2. Prime Intellect, DeepSeek 엔드포인트 모델 53시간 무단 교체\n3. 오라클 \"OpenAI 인프라 계약 자금 전액 확보\"\n4. 손정의, SK하이닉스 1조 달러 인수 타진 보도 (금융사 논의 미확인)",
-      "video_url": "https://x.com/window98se/status/2124043364136063457"
-    },
-    {
       "id": "20261122_0700",
       "title": "오늘의 AI 브리핑 · 11/22 오전 7시",
       "image": "briefings/2026-11-22/0700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-24/1700_ko.jpg",
       "desc": "1. Codex, 로봇 벤치 RoboDojo 97%로 졸업\n2. MS AI, 장기 강화학습 인프라 Rocket 공개\n3. 바이두 ERNIE 5.5 Flash 프리뷰 가중치 공개\n4. 센스타임 U1.6, 그림 속 오타 스스로 수정",
       "video_url": "https://x.com/window98se/status/2125129680055644466"
+    },
+    {
+      "id": "20261125_0700",
+      "title": "오늘의 AI 브리핑 · 11/25 오전 7시",
+      "image": "briefings/2026-11-25/0700_ko.jpg",
+      "desc": "1. Claude, 47년 난제 'VP≠VNP' 증명 공개\n2. 오픈AI GPT-6, 단백질 직접 설계·실험 검증\n3. 오픈AI·앤트로픽 직원 \"미공개 모델 위험\" (미확인)\n4. MCP 서버가 '스킬'까지 싣고 온다\n5. 텐센트 Hy-MT3, 102개 언어 번역 오픈소스",
+      "video_url": "https://x.com/window98se/status/2125339714156986731"
     }
   ]
 }
