@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261122_1200",
-      "title": "오늘의 AI 브리핑 · 11/22 오후 12시",
-      "image": "briefings/2026-11-22/1200_ko.jpg",
-      "desc": "1. AI 코딩 에이전트가 키 커밋, Together AI 프롬프트 유출\n2. MCP 진단 도구로 위장한 npm 정보 탈취 악성코드\n3. NBER: 코딩 에이전트로 커밋 240%↑, 릴리스는 30%↑\n4. Claude API, 키 없이 내 조직이 직접 결제(베타)",
-      "video_url": "https://x.com/window98se/status/2124328720437797255"
-    },
-    {
       "id": "20261122_1700",
       "title": "오늘의 AI 브리핑 · 11/22 오후 5시",
       "image": "briefings/2026-11-22/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-25/1200_ko.jpg",
       "desc": "1. 앤트로픽 Siren, Claude는 샌드박스 밖으로 나갈까\n2. 앤트로픽, '뉴런 단위' 해석 다시 꺼냈다\n3. 바이트댄스 AI 비서 '샤오더우' 베타\n4. Devin 새 코딩 모델 SWE-2.1, 2주 무료\n5. 미드저니 애니 모델 Niji 8 공개",
       "video_url": "https://x.com/window98se/status/2125416383987249582"
+    },
+    {
+      "id": "20261125_1700",
+      "title": "오늘의 AI 브리핑 · 11/25 오후 5시",
+      "image": "briefings/2026-11-25/1700_ko.jpg",
+      "desc": "1. T3 Code, '몰래 텔레메트리' 논란\n2. xAI 공동창업 3인, 예측 AI Epochal 출범\n3. 보고 듣고 말하는 음성 AI Telos-Live-1\n4. 27B 코딩 모델 Bonsai 2.5, 5.9GB에 담다\n5. Claude 아티팩트, 데스크톱 앱으로 설치",
+      "video_url": "https://x.com/window98se/status/2125492807217696831"
     }
   ]
 }
