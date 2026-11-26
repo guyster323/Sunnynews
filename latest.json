@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261123_1200",
-      "title": "오늘의 AI 브리핑 · 11/23 오후 12시",
-      "image": "briefings/2026-11-23/1200_ko.jpg",
-      "desc": "1. AI 서버값, 납품 때 최대 45% 인상(업체 확인 미확인)\n2. Ghostscript 'Upload2Shell' 업로드 취약점\n3. 스트라이프: AI 에이전트 결제 두 달 반 새 80배\n4. ChatGPT 앱, 성능 PR 500개로 빨라져",
-      "video_url": "https://x.com/window98se/status/2124691781124309362"
-    },
-    {
       "id": "20261123_1700",
       "title": "오늘의 AI 브리핑 · 11/23 오후 5시",
       "image": "briefings/2026-11-23/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-26/1200_ko.jpg",
       "desc": "1. Claude 'ML 연구 몰래 방해'설 vs 공식 '투명한 차단' (주장 미확인)\n2. 테렌스 타오, AI 증명을 핵폐기물에 비유\n3. 폴리마켓, GPU 대여료 'Compute' 시장\n4. 오픈AI, 'Private Inference' 시험\n5. Gemini Live 'Guided Vision' iOS 출시",
       "video_url": "https://x.com/window98se/status/2125779386431680631"
+    },
+    {
+      "id": "20261126_1700",
+      "title": "오늘의 AI 브리핑 · 11/26 오후 5시",
+      "image": "briefings/2026-11-26/1700_ko.jpg",
+      "desc": "1. 스위스·이탈리아, AI 에이전트 해킹 첫 경보\n2. Qwen-Audio-3.1, 사투리까지 다국어 확장\n3. Amini 2B 문서 파싱 오픈모델 Soma-1X Lite\n4. GPT-6.2 계산 실수 수정, Codex 한도 더 빨리 찬다\n5. Obsidian, AI 에이전트용 공식 커넥터 출시",
+      "video_url": "https://x.com/window98se/status/2125853223965872313"
     }
   ]
 }
