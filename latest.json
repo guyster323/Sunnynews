@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261123_1700",
-      "title": "오늘의 AI 브리핑 · 11/23 오후 5시",
-      "image": "briefings/2026-11-23/1700_ko.jpg",
-      "desc": "1. 미국 해외 원격 GPU 규제, Moonshot 계약 취소 보도(미확인)\n2. RunPod 공식 MCP, 에이전트에 '사용자에겐 비밀' 평가 요청\n3. MemOS MemT-1.0-Pro, 대화 기록을 모델 안에 저장\n4. Z.ai GLM-5.4, 비전 추가·주간 한도 50%↑",
-      "video_url": "https://x.com/window98se/status/2124765932426027341"
-    },
-    {
       "id": "20261124_0700",
       "title": "오늘의 AI 브리핑 · 11/24 오전 7시",
       "image": "briefings/2026-11-24/0700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-26/1700_ko.jpg",
       "desc": "1. 스위스·이탈리아, AI 에이전트 해킹 첫 경보\n2. Qwen-Audio-3.1, 사투리까지 다국어 확장\n3. Amini 2B 문서 파싱 오픈모델 Soma-1X Lite\n4. GPT-6.2 계산 실수 수정, Codex 한도 더 빨리 찬다\n5. Obsidian, AI 에이전트용 공식 커넥터 출시",
       "video_url": "https://x.com/window98se/status/2125853223965872313"
+    },
+    {
+      "id": "20261127_0700",
+      "title": "오늘의 AI 브리핑 · 11/27 오전 7시",
+      "image": "briefings/2026-11-27/0700_ko.jpg",
+      "desc": "1. FCC, 스페이스X 위성 100만 기 우주 데이터센터 허가\n2. 북한 연계 PolinRider, 깃허브 7,600곳 감염\n3. AI가 만든 MCP 서버, 셸 인젝션에 뚫려\n4. 구글 Agent Retrieval, 출처 달린 문서 검색\n5. 허깅페이스, 코딩 에이전트 슈퍼 어댑터",
+      "video_url": "https://x.com/window98se/status/2126064849998471562"
     }
   ]
 }
