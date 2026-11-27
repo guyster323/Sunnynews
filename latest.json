@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261124_1700",
-      "title": "오늘의 AI 브리핑 · 11/24 오후 5시",
-      "image": "briefings/2026-11-24/1700_ko.jpg",
-      "desc": "1. Codex, 로봇 벤치 RoboDojo 97%로 졸업\n2. MS AI, 장기 강화학습 인프라 Rocket 공개\n3. 바이두 ERNIE 5.5 Flash 프리뷰 가중치 공개\n4. 센스타임 U1.6, 그림 속 오타 스스로 수정",
-      "video_url": "https://x.com/window98se/status/2125129680055644466"
-    },
-    {
       "id": "20261125_0700",
       "title": "오늘의 AI 브리핑 · 11/25 오전 7시",
       "image": "briefings/2026-11-25/0700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-27/1700_ko.jpg",
       "desc": "1. 엔비디아, 동남아 AI 서버 출하 중단(미확인)\n2. 은행들 AI 대출 정리, 코어위브 45억 달러 대출\n3. 영란은행 총재 '미공개 AI 모델 우려'\n4. 가짜 AI 에이전트 스킬, 깃허브 487곳 악성코드\n5. 문샷AI, 연구자에 Kimi API 최대 2만 달러",
       "video_url": "https://x.com/window98se/status/2126215840806928831"
+    },
+    {
+      "id": "20261128_0700",
+      "title": "오늘의 AI 브리핑 · 11/28 오전 7시",
+      "image": "briefings/2026-11-28/0700_ko.jpg",
+      "desc": "1. SAP 깃허브 해킹, AI 에이전트 동원설(미확인)\n2. AI 노래, 한국 음원 차트 퍼펙트 올킬\n3. 술레이만, 'AI 격리' 10단계 공개\n4. 허깅페이스 GGUF 모델 5개에 악성코드\n5. 구글 클라우드, 오픈 모델 증류 튜닝",
+      "video_url": "https://x.com/window98se/status/2126428132056150267"
     }
   ]
 }
