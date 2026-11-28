@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "id": "20261125_1200",
-      "title": "오늘의 AI 브리핑 · 11/25 오후 12시",
-      "image": "briefings/2026-11-25/1200_ko.jpg",
-      "desc": "1. 앤트로픽 Siren, Claude는 샌드박스 밖으로 나갈까\n2. 앤트로픽, '뉴런 단위' 해석 다시 꺼냈다\n3. 바이트댄스 AI 비서 '샤오더우' 베타\n4. Devin 새 코딩 모델 SWE-2.1, 2주 무료\n5. 미드저니 애니 모델 Niji 8 공개",
-      "video_url": "https://x.com/window98se/status/2125416383987249582"
-    },
-    {
       "id": "20261125_1700",
       "title": "오늘의 AI 브리핑 · 11/25 오후 5시",
       "image": "briefings/2026-11-25/1700_ko.jpg",
@@ -69,6 +62,13 @@
       "image": "briefings/2026-11-28/1200_ko.jpg",
       "desc": "1. 오픈AI, 애플 맞고소 \"영업비밀 훔쳤다\"\n2. 리퀴드 AI d1.3-ultra, 판단 모델 1위\n3. 엔비디아 '테스트 타임 베이킹' 공개\n4. AI 에이전트용 영상 '깃허브' v2\n5. 파이댄틱 Pax, 데스크톱 직접 조작",
       "video_url": "https://x.com/window98se/status/2126502055829487656"
+    },
+    {
+      "id": "20261128_1700",
+      "title": "오늘의 AI 브리핑 · 11/28 오후 5시",
+      "image": "briefings/2026-11-28/1700_ko.jpg",
+      "desc": "1. 미해결 수학 6만 문제에 AI 에이전트 'Left to Solve'\n2. 샤오미 세계 모델 2.0, 자율주행·로봇 함께\n3. JetBrains 개발자 2.9만 명 조사, 절반 넘게 업무 60%+ 에이전트\n4. 말로 설명하면 ESP32 펌웨어, ESP ZeroCode AI",
+      "video_url": "https://x.com/window98se/status/2126579236807053409"
     }
   ]
 }
